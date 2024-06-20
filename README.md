@@ -18,7 +18,7 @@ The UCC Departmental App is designed to provide easy access to various departmen
  Setup Instructions
 
 
-1. Download and Open Project in Android Studio
+1. Download and extract the project "UCCDEPAPP" 
    - Launch Android Studio.
    - Select "Open an existing Android Studio project".
    - Navigate to the directory where you cloned the repository and select the root folder (uccdepapp).
