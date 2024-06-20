@@ -41,7 +41,7 @@ Contributions to the UCC Department App are welcome! Here's how you can contribu
 - Create a new Pull Request.
 
  License
-This project is licensed under the MIT License - see the(LICENSE) file for details.
+This project is licensed under the MIT License.
 
  Acknowledgements
 - Icons: Icons made by [Freepik](https://www.freepik.com) from [www.flaticon.com](https://www.flaticon.com).
